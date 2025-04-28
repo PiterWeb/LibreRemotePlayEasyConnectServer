@@ -10,7 +10,7 @@ import (
 func main() {
 
 	// -p flag for port number
-	port := flag.Uint("port", 8080, "Port number to listen on")
+	port := flag.Uint("port", 80, "Port number to listen on")
 
 	flag.Parse()
 
