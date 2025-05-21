@@ -58,7 +58,7 @@ go build -o lrpec
 ```
 4. Run the server:
 ```bash
-./lrpec <port>
+./lrpec --port <port>
 ```
 
 Replace `<port>` with the desired port number. The server will start and listen for incoming connections on the specified port.
