@@ -1,4 +1,4 @@
-github.com/PiterWeb/LibreRemotePlaySignals v1.0.0 h1:1AXN7LmhwwErDrITgh+hSOJTV1CM675UObNH7EJHJFs=
-github.com/PiterWeb/LibreRemotePlaySignals v1.0.0/go.mod h1:V4EBcKDDq+tPdMaWZ4KWXW7RyuYtaZfWKknVje8Od4Q=
+github.com/PiterWeb/LibreRemotePlaySignals v1.1.0 h1:haBITtJ2q7KdPjxI21iFQy7Tynb/XvaE2SdNr2qN5AE=
+github.com/PiterWeb/LibreRemotePlaySignals v1.1.0/go.mod h1:2X/rLrGkztUwKox0R1lE5lC4puUpjMLbjO4DK6f9Xic=
 github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=
 github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
