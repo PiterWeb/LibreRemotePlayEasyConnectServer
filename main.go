@@ -19,7 +19,7 @@ func main() {
 
 	// Create a new instance of the server
 	go func() {
-		err := LRPSignals.InitServer(uint16(*port), ips_chan)
+		err := LRPSignals.InitServer(LRPSignals.ServerOptions{Port: uint16(*port)}, ips_chan)
 
 		err_chan <- err
 	}()
