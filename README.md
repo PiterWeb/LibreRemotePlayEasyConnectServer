@@ -8,6 +8,7 @@ LibreRemotePlay EasyConnect Server is a server that allows you to connect betwee
 
 - Easy to set up and use it, is a binary that can be run on any platform that Go supports.
 - Self-host first (Includes a Dockerfile)
+- Announces itself as libreremoteplay-easyconnect-server.local in the LAN
 
 ## Usage with Docker
 
